@@ -6,5 +6,9 @@
 
 
 ## TINKER CAD OUTPUT CIRCUIT
+<img width="1436" height="697" alt="WhatsApp Image 2026-05-21 at 8 08 19 PM" src="https://github.com/user-attachments/assets/0f9d2a6c-2440-413c-b72a-69a995296894" />
+<img width="1428" height="678" alt="WhatsApp Image 2026-05-21 at 8 08 22 PM" src="https://github.com/user-attachments/assets/aa2a56e7-33d4-41c5-9429-3436823d8b41" />
+
+
 
 <img width="831" height="157" alt="image" src="https://github.com/user-attachments/assets/08c25fa5-a963-4100-8ea2-4c7e2669bb49" />
