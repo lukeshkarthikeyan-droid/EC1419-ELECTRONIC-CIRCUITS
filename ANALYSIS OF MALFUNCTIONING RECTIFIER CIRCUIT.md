@@ -5,6 +5,9 @@
 
 
 ## ATTACH THE CORRECT CIRCU
+## TABULATION
+<img width="1242" height="798" alt="image" src="https://github.com/user-attachments/assets/279167c7-4e86-4ce7-9e39-53fda6bea170" />
+
 ## GRAPHS
 <img width="1080" height="1397" alt="WhatsApp Image 2026-05-30 at 10 40 50 AM" src="https://github.com/user-attachments/assets/c46f9c14-4228-4353-bd56-0e21a002226a" />
 
